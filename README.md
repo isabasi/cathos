@@ -4,7 +4,9 @@ FUNGUSAFE is an image classification program with the purpose of determining whe
 It identifies fungi into one of four labels: edible mushroom sporocarp, edible sporocarp, poisonous mushroom sporocarp, and poisonous sporocarp. 
 Though this model is NOT recommended for actual use in foraging, a more refined version of it could eventually be able to aid new foragers and make foraging more widespread. This in turn reduces carbon emissions and costs of buying produce, lending our planet a hand in these trying times.
 
-![add image descrition here](direct image link here)
+
+###### A sample run of FUNGUSAFE with the poisonous fly agaric mushroom (Amanita muscaria)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6Z5Pr2W/Screenshot-2023-07-07-205714.png" alt="Screenshot-2023-07-07-205714" border="0"></a>
 
 ## The Algorithm
 
@@ -38,4 +40,4 @@ The image should appear in the classification folder.
 
 [View a video explanation here](video link)
 
-*THE TRAINING OF THIS MODEL WAS NOT ABLE TO MAKE IT RELIABLE AND THUSLY IT IS VERY EXPERIMENTAL, PLEASE DO EXTERNAL RESEARCH IF YOU PLAN ON ACTUALLY EATING FUNGI IN THE WILD
+#### *THE TRAINING OF THIS MODEL WAS NOT ABLE TO MAKE IT RELIABLE AND THUSLY IT IS VERY EXPERIMENTAL, PLEASE DO EXTERNAL RESEARCH IF YOU PLAN ON ACTUALLY EATING FUNGI IN THE WILD
