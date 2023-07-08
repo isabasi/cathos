@@ -22,7 +22,7 @@ FUNGUSAFE was trained for 30 epochs, which despite the lengthy training time, st
    
 3. Move fungusdata into the /jetson-inference/python/training/classification/data directory, and unzip using the unzip command on the terminal
    
-4. Move fungusmodel into the /jetson-inference/python/training/classification/models director
+4. Move fungusmodel into the /jetson-inference/python/training/classification/models directory
 
 5. Finding the image that you want to identify, import it anywhere into the nano and copy the file path
    
