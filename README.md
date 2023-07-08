@@ -36,7 +36,7 @@ DATASET=data/fungusdata
 ``` bash
 imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt <pasted file path> <output>.jpg
 ```
-The image should appear in the classification folder.
+The output image should appear in the classification folder.
 
 [View a video explanation here](video link)
 
