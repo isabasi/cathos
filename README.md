@@ -38,6 +38,8 @@ imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output
 ```
 The output image should appear in the classification folder.
 
-[View a video explanation here](video link)
+[View a video explanation here]
+
+[![IMAGE ALT TEXT](https://i.ibb.co/2s54tRM/Screenshot-2023-07-09-133812.png)](https://www.youtube.com/watch?v=4OU-ZjEJFcw "How to use FUNGUSAFE")
 
 #### *THE TRAINING OF THIS MODEL WAS NOT ABLE TO MAKE IT RELIABLE AND THUSLY IT IS VERY EXPERIMENTAL, PLEASE DO EXTERNAL RESEARCH IF YOU PLAN ON ACTUALLY EATING FUNGI IN THE WILD
